@@ -1,4 +1,6 @@
 {
-	"libraries": [
-	]
+    "libraries": [
+        //"ui5lab.geometry", "ui5lab.striptoastr"
+    ]
+
 }
